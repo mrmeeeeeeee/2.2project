@@ -1,0 +1,32 @@
+.assalom {
+  color: black;
+  text-align: center;
+}
+
+.Oz {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+
+body {
+  padding: 40px;
+  background-color: aqua;
+}
+
+input {
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+p {
+  text-align: center;
+}
+
+.submit {
+  background-color: green;
+  color: aliceblue;
+  width: 1000px;
+  border-radius: 20px;
+}

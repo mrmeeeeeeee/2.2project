@@ -1,0 +1,32 @@
+th,
+td {
+  border: 2px solid black;
+  padding: 10px;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+caption {
+  background-color: rgba(0, 149, 255, 0.916);
+  padding: 5px;
+}
+
+thead {
+  background-color: yellow;
+}
+
+.grey {
+  background-color: grey;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}

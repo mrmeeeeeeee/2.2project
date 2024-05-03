@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(55, 255, 55);
+}
+
+.container {
+  position: relative;
+}
+
+.box1 {
+  position: relative;
+  margin-left: 600px;
+  margin-top: 250px;
+  width: 200px;
+  height: 200px;
+  background-color: rgb(55, 255, 55);
+  border: 15px solid white;
+  border-radius: 10%;
+}
+
+.box2 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background-color: white;
+  border: 15px solid white;
+  border-radius: 10%;
+}

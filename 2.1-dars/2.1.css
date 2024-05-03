@@ -1,0 +1,81 @@
+/* Global styles */
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+img {
+  width: 100%;
+}
+
+/* Header styles */
+
+header,
+footer {
+  background-color: #333;
+}
+
+.header {
+  padding: 10px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 120px;
+}
+
+.header-right .nav {
+  display: flex;
+  gap: 30px;
+}
+
+.header-right .nav a {
+  text-decoration: none;
+  color: white;
+}
+
+/* Hero styles */
+
+.hero {
+  margin: 70px 0;
+}
+
+.hero-title {
+  margin: 70px 0;
+}
+
+.hero-title h1 {
+  text-align: center;
+  font-size: 80px;
+}
+
+.hero-cards {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.hero-card {
+  text-align: center;
+  max-width: 370px;
+}
+
+.hero-card h2 {
+  margin: 20px 0;
+}

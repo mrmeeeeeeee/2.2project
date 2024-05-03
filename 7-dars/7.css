@@ -1,0 +1,24 @@
+body {
+  background-color: gainsboro;
+}
+
+.bir {
+  background-color: white;
+  margin-top: 40px;
+  padding: 10px;
+  text-align: center;
+}
+
+.ikki {
+  background-color: white;
+  margin-top: 10px;
+  text-align: center;
+  color: purple;
+}
+
+.uch {
+  background-color: white;
+  margin-top: 10px;
+  text-align: center;
+  padding: 3px;
+}
